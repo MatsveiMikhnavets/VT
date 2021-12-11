@@ -1,0 +1,2 @@
+main-class: main.tasks9to11.classes.Basket
+class-path: out/
